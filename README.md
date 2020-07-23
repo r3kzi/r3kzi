@@ -8,7 +8,7 @@ I'm currently working as a Cloud Infrastructure Engineer at [dwpbank](https://ww
 
 ## Find Me Elsewhere :computer:
 
-<a href="https://twitter.com/iamcniehoff" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter"></a><a href="nkedin.com/in/christian-niehoff-637b9b17a/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn"></a>
+<a href="https://twitter.com/iamcniehoff" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter"></a><a href="https://www.linkedin.com/in/christian-niehoff-637b9b17a/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn"></a>
 
 ## My Projects :pencil:
 
