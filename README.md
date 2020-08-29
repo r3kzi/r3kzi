@@ -26,3 +26,9 @@ A ansible playbook to set up a local ubuntu machine.
 You want to provision your AWS Elasticsearch Service Cluster and you're using an IAM Master User with Fine-Grained Access Control?
 You can't use Ansible because it doesn't allow you to sign your HTTP requests with AWS Signature V4?
 Fear no more! I've built something!
+
+**:computer: opa-policies-for-kubernetes - Open Policy Agent-Policies for Kubernetes**
+
+<img src="https://img.shields.io/github/stars/r3kzi/opa-policies-for-kubernetes">
+
+Playing around with Open Policy Agent, Rego and Gatekeeper to use Policies within Kubernetes as an Admission Controller.
