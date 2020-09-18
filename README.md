@@ -10,7 +10,7 @@ I'm currently working as a Cloud Infrastructure Engineer at [dwpbank](https://ww
 
 <a href="https://twitter.com/iamcniehoff" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter"></a><a href="https://www.linkedin.com/in/christian-niehoff-637b9b17a/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn"></a>
 
-## My Projects :pencil:
+## Most Important Projects :pencil:
 
 **:computer: ubuntu-provisioning - Provisioning Ubuntu with ansible**
 
@@ -31,9 +31,3 @@ Exports metrics from ClamAV as Prometheus metrics.
 You want to provision your AWS Elasticsearch Service Cluster and you're using an IAM Master User with Fine-Grained Access Control?
 You can't use Ansible because it doesn't allow you to sign your HTTP requests with AWS Signature V4?
 Fear no more! I've built something!
-
-**:computer: opa-policies-for-kubernetes - Open Policy Agent-Policies for Kubernetes**
-
-<img src="https://img.shields.io/github/stars/r3kzi/opa-policies-for-kubernetes">
-
-Playing around with Open Policy Agent, Rego and Gatekeeper to use Policies within Kubernetes as an Admission Controller.
