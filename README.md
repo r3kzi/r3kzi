@@ -18,6 +18,11 @@ I'm currently working as a Cloud Infrastructure Engineer at [dwpbank](https://ww
 
 A ansible playbook to set up a local ubuntu machine.
 
+**:computer: clamav-prometheus-exporter - ClamAV Prometheus Exporter**
+
+<img src="https://img.shields.io/github/stars/r3kzi/clamav-prometheus-exporter">
+
+Exports metrics from ClamAV as Prometheus metrics.
 
 **:computer: aws-elasticsearch-provisioner - Provisioning AWS Elasticsearch Service using AWS Signature V4**
 
