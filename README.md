@@ -23,11 +23,3 @@ A ansible playbook to set up a local ubuntu machine.
 <img src="https://img.shields.io/github/stars/r3kzi/clamav-prometheus-exporter">
 
 Exports metrics from ClamAV as Prometheus metrics.
-
-**:computer: aws-elasticsearch-provisioner - Provisioning AWS Elasticsearch Service using AWS Signature V4**
-
-<img src="https://img.shields.io/github/stars/r3kzi/aws-elasticsearch-provisioner">
-
-You want to provision your AWS Elasticsearch Service Cluster and you're using an IAM Master User with Fine-Grained Access Control?
-You can't use Ansible because it doesn't allow you to sign your HTTP requests with AWS Signature V4?
-Fear no more! I've built something!
