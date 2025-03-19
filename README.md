@@ -9,6 +9,7 @@ I'm currently working as a Cloud Infrastructure Engineer at [dwpbank](https://ww
 ## Find Me Elsewhere :computer:
 
 <a href="https://www.linkedin.com/in/christian-niehoff-637b9b17a/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2304/64/10-LinkedIn-1024.png" height="120px" width="120px" alt="LinkedIn"></a>
+<a href="mailto:mail@christian-niehoff.com"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2304/64/06-gmail-1024.png" height="120px" width="120px" alt="LinkedIn"></a>
 
 ## Most Important Projects :pencil:
 
